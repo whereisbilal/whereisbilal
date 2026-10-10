@@ -10,11 +10,9 @@
 
 ### 🛠️ Skills & Technologies
 
-```html
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,nodejs,express,mongodb,git,github,vscode&perline=5" />
 </p>
-```
 
 ---
 
