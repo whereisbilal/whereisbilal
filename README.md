@@ -1,3 +1,4 @@
+```html
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 
 <h3 align="center">Frontend Developer | Learning Backend</h3>
@@ -16,11 +17,11 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-I enjoy building web applications and learning new technologies by working on real-world projects.
+I enjoy building web applications and exploring new technologies through hands-on projects.
 
-Check out my pinned repositories below 👇
+🚀 Explore my pinned repositories below!
 
 ---
 
@@ -28,16 +29,17 @@ Check out my pinned repositories below 👇
 
 <p align="center">
   <a href="https://whereisbilal.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/whereisbilal/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <b>Portfolio</b>
+  <a href="https://whereisbilal.vercel.app/">Portfolio</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LinkedIn</b>
+  <a href="https://www.linkedin.com/in/whereisbilal/">LinkedIn</a>
 </p>
+```
