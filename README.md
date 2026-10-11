@@ -29,7 +29,7 @@ I enjoy building web applications and exploring new technologies through hands-o
 
 <p align="center">
   <a href="https://whereisbilal.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Portfolio" />
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="45" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/whereisbilal/">
@@ -37,9 +37,9 @@ I enjoy building web applications and exploring new technologies through hands-o
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://whereisbilal.vercel.app/">Portfolio</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/whereisbilal/">LinkedIn</a>
-</p>
+</p> -->
 ```
