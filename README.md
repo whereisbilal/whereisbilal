@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
+<h1 align="center">Hi 👋, I'm Bilal</h1>
 
 <h3 align="center">Frontend Developer | learning Full-Stack Development</h3>
 
