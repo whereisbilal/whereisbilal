@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 
-<h3 align="center">Frontend Developer|learning Full-Stack Development</h3>
+<h3 align="center">Frontend Developer | learning Full-Stack Development</h3>
 
 <p align="center">
  I'm a Frontend Developer learning Full-Stack Development. I enjoy building modern web applications and improving my skills through practical projects.
